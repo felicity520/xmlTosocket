@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="listview_item_name">
+        <item>MIC测试</item>
+        <item>Camera输入测试</item>
+    </string-array>
+
+    <string-array name="listview_item_uri">
+        <item>com.android.nirvana.tools.HeadsetMicTestActivity</item>
+        <item>com.android.nirvana.tools.HdmiTestActivity</item>
+    </string-array>
+
+</resources>
